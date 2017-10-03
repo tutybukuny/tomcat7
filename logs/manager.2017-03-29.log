@@ -1,0 +1,10 @@
+Mar 29, 2017 1:45:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Mar 29, 2017 1:45:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Mar 29, 2017 1:45:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 29, 2017 1:45:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 29, 2017 1:45:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'

@@ -1,0 +1,98 @@
+Mar 28, 2017 1:46:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Mar 28, 2017 1:46:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Mar 28, 2017 1:46:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 1:46:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 1:46:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context6829298470407651550.xml'
+Mar 28, 2017 1:46:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/KTTKServer'
+Mar 28, 2017 1:52:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Mar 28, 2017 1:52:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Mar 28, 2017 1:52:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 1:52:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 1:52:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/KTTKServer'
+Mar 28, 2017 1:52:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context1851562503045166786.xml'
+Mar 28, 2017 1:57:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 1:57:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 28, 2017 1:57:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 1:57:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 28, 2017 2:03:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 2:03:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 2:03:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 28, 2017 2:43:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 2:43:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/KTTKServer'
+Mar 28, 2017 3:35:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 3:35:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 3:35:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context3585113654784963575.xml'
+Mar 28, 2017 3:35:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/KTTKServer'
+Mar 28, 2017 3:38:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 3:38:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 28, 2017 3:46:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 3:46:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 28, 2017 3:46:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 3:46:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 28, 2017 3:47:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 3:47:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 28, 2017 4:02:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 4:02:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/KTTKServer'
+Mar 28, 2017 4:02:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 4:02:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 4:02:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context8183045295379244840.xml'
+Mar 28, 2017 4:02:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/KTTKServer'
+Mar 28, 2017 4:17:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 4:17:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 28, 2017 4:17:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 4:17:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 28, 2017 4:23:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 4:23:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/KTTKServer'
+Mar 28, 2017 4:36:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 4:36:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 28, 2017 4:36:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context3497576791157842303.xml'
+Mar 28, 2017 4:36:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/KTTKServer'

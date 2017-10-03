@@ -1,0 +1,132 @@
+Sep 04, 2017 8:41:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Sep 04, 2017 8:41:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Sep 04, 2017 8:41:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:41:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:41:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TrafficQAService'
+Sep 04, 2017 8:41:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context4441243853915384448.xml'
+Sep 04, 2017 8:42:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:45:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:45:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 8:46:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:46:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 8:46:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:46:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 8:46:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:46:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 8:50:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:50:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 8:50:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:50:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 8:50:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:50:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TrafficQAService'
+Sep 04, 2017 8:50:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:50:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 8:50:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context9063539745491453425.xml'
+Sep 04, 2017 8:50:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TrafficQAService'
+Sep 04, 2017 9:00:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:00:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:00:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:00:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:02:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:02:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:02:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:02:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:02:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:03:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:03:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:03:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:03:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:03:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TrafficQAService'
+Sep 04, 2017 9:03:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:03:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:03:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context7204897586932151612.xml'
+Sep 04, 2017 9:03:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TrafficQAService'
+Sep 04, 2017 9:05:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:05:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:05:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:05:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:05:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:05:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:06:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:06:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:06:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:06:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:06:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:06:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:06:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:06:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TrafficQAService'
+Sep 04, 2017 9:07:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:07:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:07:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context1231882422503958791.xml'
+Sep 04, 2017 9:07:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TrafficQAService'
+Sep 04, 2017 9:07:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:07:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'
+Sep 04, 2017 9:12:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:12:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 04, 2017 9:12:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'

@@ -1,0 +1,10 @@
+Aug 17, 2017 7:27:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Aug 17, 2017 7:27:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Aug 17, 2017 7:27:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Aug 17, 2017 7:27:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Aug 17, 2017 7:27:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/TrafficQAService'

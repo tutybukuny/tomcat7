@@ -1,0 +1,110 @@
+Mar 27, 2017 3:35:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Mar 27, 2017 3:35:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Mar 27, 2017 3:35:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:35:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:35:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:39:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:39:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:39:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:39:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:41:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:41:25 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:41:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:41:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:41:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:41:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:41:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:41:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:42:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:42:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:42:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:42:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:42:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:42:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:42:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:42:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:42:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:42:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:42:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:42:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:43:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:43:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:43:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:43:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:43:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:43:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:44:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:44:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:45:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:45:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:46:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:46:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:46:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:46:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:46:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:46:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:55:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:55:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:56:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:56:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:56:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:56:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:56:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:56:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/KTTKServer'
+Mar 27, 2017 3:56:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mar 27, 2017 3:56:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/KTTKServer'

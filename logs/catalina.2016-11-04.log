@@ -1,0 +1,1507 @@
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.72
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 14 2016 12:12:26 UTC
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.72.0
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8.1
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.3
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_11\jre
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_11-b12
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-7.0.72\conf\logging.properties
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\apache-tomcat-7.0.72\endorsed
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\apache-tomcat-7.0.72
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\apache-tomcat-7.0.72
+Nov 04, 2016 9:41:27 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-7.0.72\temp
+Nov 04, 2016 9:41:27 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\adb;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Rational\common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Ruby200-x64\bin;C:\Program Files\Indri\Indri 5.11\bin;.
+Nov 04, 2016 9:41:28 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 9:41:28 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 9:41:28 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 3416 ms
+Nov 04, 2016 9:41:28 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 04, 2016 9:41:28 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.72
+Nov 04, 2016 9:41:29 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\axis
+Nov 04, 2016 9:41:31 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 9:41:32 AM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [399] milliseconds.
+Nov 04, 2016 9:41:32 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\axis has finished in 3,499 ms
+Nov 04, 2016 9:41:32 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\docs
+Nov 04, 2016 9:41:32 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 9:41:32 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\docs has finished in 198 ms
+Nov 04, 2016 9:41:32 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\examples
+Nov 04, 2016 9:41:35 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 9:41:35 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\examples has finished in 2,552 ms
+Nov 04, 2016 9:41:35 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\host-manager
+Nov 04, 2016 9:41:35 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 9:41:35 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\host-manager has finished in 278 ms
+Nov 04, 2016 9:41:35 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\manager
+Nov 04, 2016 9:41:35 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 9:41:35 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\manager has finished in 405 ms
+Nov 04, 2016 9:41:35 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\ROOT
+Nov 04, 2016 9:41:36 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 9:41:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\ROOT has finished in 187 ms
+Nov 04, 2016 9:41:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\test
+Nov 04, 2016 9:41:36 AM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 9:41:36 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\test has finished in 436 ms
+Nov 04, 2016 9:41:36 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 9:41:36 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 9:41:36 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 7782 ms
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.72
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 14 2016 12:12:26 UTC
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.72.0
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8.1
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.3
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_11\jre
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_11-b12
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-7.0.72\conf\logging.properties
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\apache-tomcat-7.0.72\endorsed
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-7.0.72\temp
+Nov 04, 2016 5:08:04 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\adb;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Rational\common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Ruby200-x64\bin;C:\Program Files\Indri\Indri 5.11\bin;.
+Nov 04, 2016 5:08:04 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:08:04 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:08:04 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1372 ms
+Nov 04, 2016 5:08:05 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 04, 2016 5:08:05 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.72
+Nov 04, 2016 5:08:05 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\axis
+Nov 04, 2016 5:08:06 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:08:06 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [172] milliseconds.
+Nov 04, 2016 5:08:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\axis has finished in 1,995 ms
+Nov 04, 2016 5:08:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\docs
+Nov 04, 2016 5:08:07 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:08:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\docs has finished in 187 ms
+Nov 04, 2016 5:08:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\examples
+Nov 04, 2016 5:08:08 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:08:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\examples has finished in 1,516 ms
+Nov 04, 2016 5:08:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\host-manager
+Nov 04, 2016 5:08:08 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:08:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\host-manager has finished in 203 ms
+Nov 04, 2016 5:08:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\manager
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\manager has finished in 203 ms
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\ROOT
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\ROOT has finished in 156 ms
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin
+Nov 04, 2016 5:08:09 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(C:\apache-tomcat-7.0.72\webapps\strutlogin\WEB-INF\lib\javax.servlet_2.5.0.v201103041518.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Nov 04, 2016 5:08:09 PM org.apache.tomcat.util.digester.Digester fatalError
+SEVERE: Parse Fatal Error at line 2 column 1: Content is not allowed in prolog.
+org.xml.sax.SAXParseException; systemId: jndi:/localhost/strutlogin/WEB-INF/web.xml; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:999)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1576)
+	at org.apache.catalina.startup.ContextConfig.parseWebXml(ContextConfig.java:1862)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1262)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:888)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5522)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:899)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:875)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1260)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2002)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.ContextConfig parseWebXml
+SEVERE: Parse error in application web.xml file at jndi:/localhost/strutlogin/WEB-INF/web.xml
+org.xml.sax.SAXParseException; systemId: jndi:/localhost/strutlogin/WEB-INF/web.xml; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:999)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1576)
+	at org.apache.catalina.startup.ContextConfig.parseWebXml(ContextConfig.java:1862)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1262)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:888)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5522)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:899)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:875)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1260)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2002)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.ContextConfig parseWebXml
+SEVERE: Occurred at line 2 column 1
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.ContextConfig configureStart
+SEVERE: Marking this application unavailable due to previous error(s)
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:08:09 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more components marked the context as not correctly configured
+Nov 04, 2016 5:08:09 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/strutlogin] startup failed due to previous errors
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin has finished in 281 ms
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\test
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:08:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\test has finished in 352 ms
+Nov 04, 2016 5:08:09 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:08:10 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:08:10 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5062 ms
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.72
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 14 2016 12:12:26 UTC
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.72.0
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8.1
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.3
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_11\jre
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_11-b12
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-7.0.72\conf\logging.properties
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\apache-tomcat-7.0.72\endorsed
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-7.0.72\temp
+Nov 04, 2016 5:14:04 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\adb;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Rational\common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Ruby200-x64\bin;C:\Program Files\Indri\Indri 5.11\bin;.
+Nov 04, 2016 5:14:04 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:14:04 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 833 ms
+Nov 04, 2016 5:14:04 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 04, 2016 5:14:04 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.72
+Nov 04, 2016 5:14:04 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\axis
+Nov 04, 2016 5:14:05 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:14:05 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [157] milliseconds.
+Nov 04, 2016 5:14:05 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\axis has finished in 969 ms
+Nov 04, 2016 5:14:05 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\docs
+Nov 04, 2016 5:14:06 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:14:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\docs has finished in 203 ms
+Nov 04, 2016 5:14:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\examples
+Nov 04, 2016 5:14:06 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:14:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\examples has finished in 484 ms
+Nov 04, 2016 5:14:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\host-manager
+Nov 04, 2016 5:14:06 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:14:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\host-manager has finished in 188 ms
+Nov 04, 2016 5:14:06 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\manager
+Nov 04, 2016 5:14:06 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\manager has finished in 172 ms
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\ROOT
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\ROOT has finished in 156 ms
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin
+Nov 04, 2016 5:14:07 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(C:\apache-tomcat-7.0.72\webapps\strutlogin\WEB-INF\lib\javax.servlet_2.5.0.v201103041518.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Nov 04, 2016 5:14:07 PM org.apache.tomcat.util.digester.Digester fatalError
+SEVERE: Parse Fatal Error at line 2 column 1: Content is not allowed in prolog.
+org.xml.sax.SAXParseException; systemId: jndi:/localhost/strutlogin/WEB-INF/web.xml; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:999)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1576)
+	at org.apache.catalina.startup.ContextConfig.parseWebXml(ContextConfig.java:1862)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1262)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:888)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5522)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:899)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:875)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1260)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2002)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.ContextConfig parseWebXml
+SEVERE: Parse error in application web.xml file at jndi:/localhost/strutlogin/WEB-INF/web.xml
+org.xml.sax.SAXParseException; systemId: jndi:/localhost/strutlogin/WEB-INF/web.xml; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:999)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1576)
+	at org.apache.catalina.startup.ContextConfig.parseWebXml(ContextConfig.java:1862)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1262)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:888)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5522)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:899)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:875)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1260)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2002)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.ContextConfig parseWebXml
+SEVERE: Occurred at line 2 column 1
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.ContextConfig configureStart
+SEVERE: Marking this application unavailable due to previous error(s)
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:14:07 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more components marked the context as not correctly configured
+Nov 04, 2016 5:14:07 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/strutlogin] startup failed due to previous errors
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin has finished in 250 ms
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\test
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\test has finished in 266 ms
+Nov 04, 2016 5:14:07 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:14:07 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:14:07 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2746 ms
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.72
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 14 2016 12:12:26 UTC
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.72.0
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8.1
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.3
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_11\jre
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_11-b12
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-7.0.72\conf\logging.properties
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\apache-tomcat-7.0.72\endorsed
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-7.0.72\temp
+Nov 04, 2016 5:20:57 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\adb;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Rational\common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Ruby200-x64\bin;C:\Program Files\Indri\Indri 5.11\bin;.
+Nov 04, 2016 5:20:57 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:20:57 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 850 ms
+Nov 04, 2016 5:20:57 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 04, 2016 5:20:57 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.72
+Nov 04, 2016 5:20:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\axis
+Nov 04, 2016 5:20:58 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:20:58 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [156] milliseconds.
+Nov 04, 2016 5:20:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\axis has finished in 970 ms
+Nov 04, 2016 5:20:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\docs
+Nov 04, 2016 5:20:58 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:20:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\docs has finished in 171 ms
+Nov 04, 2016 5:20:58 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\examples
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\examples has finished in 500 ms
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\host-manager
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\host-manager has finished in 188 ms
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\manager
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\manager has finished in 171 ms
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\ROOT
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\ROOT has finished in 172 ms
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin
+Nov 04, 2016 5:20:59 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(C:\apache-tomcat-7.0.72\webapps\strutlogin\WEB-INF\lib\javax.servlet_2.5.0.v201103041518.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Nov 04, 2016 5:20:59 PM org.apache.tomcat.util.digester.Digester fatalError
+SEVERE: Parse Fatal Error at line 2 column 1: Content is not allowed in prolog.
+org.xml.sax.SAXParseException; systemId: jndi:/localhost/strutlogin/WEB-INF/web.xml; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:999)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1576)
+	at org.apache.catalina.startup.ContextConfig.parseWebXml(ContextConfig.java:1862)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1262)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:888)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5522)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:899)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:875)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1260)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2002)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.ContextConfig parseWebXml
+SEVERE: Parse error in application web.xml file at jndi:/localhost/strutlogin/WEB-INF/web.xml
+org.xml.sax.SAXParseException; systemId: jndi:/localhost/strutlogin/WEB-INF/web.xml; lineNumber: 2; columnNumber: 1; Content is not allowed in prolog.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:999)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.tomcat.util.digester.Digester.parse(Digester.java:1576)
+	at org.apache.catalina.startup.ContextConfig.parseWebXml(ContextConfig.java:1862)
+	at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1262)
+	at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:888)
+	at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:388)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5522)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:899)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:875)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1260)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2002)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.ContextConfig parseWebXml
+SEVERE: Occurred at line 2 column 1
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.ContextConfig configureStart
+SEVERE: Marking this application unavailable due to previous error(s)
+Nov 04, 2016 5:20:59 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 5:21:00 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 5:21:00 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 5:21:00 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 5:21:00 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 5:21:00 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:21:00 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more components marked the context as not correctly configured
+Nov 04, 2016 5:21:00 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/strutlogin] startup failed due to previous errors
+Nov 04, 2016 5:21:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin has finished in 235 ms
+Nov 04, 2016 5:21:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\test
+Nov 04, 2016 5:21:00 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:21:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\test has finished in 265 ms
+Nov 04, 2016 5:21:00 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:21:00 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:21:00 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2737 ms
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.72
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 14 2016 12:12:26 UTC
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.72.0
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8.1
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.3
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_11\jre
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_11-b12
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-7.0.72\conf\logging.properties
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\apache-tomcat-7.0.72\endorsed
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-7.0.72\temp
+Nov 04, 2016 5:23:52 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\adb;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Rational\common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Ruby200-x64\bin;C:\Program Files\Indri\Indri 5.11\bin;.
+Nov 04, 2016 5:23:52 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:23:52 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 836 ms
+Nov 04, 2016 5:23:52 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 04, 2016 5:23:52 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.72
+Nov 04, 2016 5:23:52 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\axis
+Nov 04, 2016 5:23:53 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:23:53 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [156] milliseconds.
+Nov 04, 2016 5:23:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\axis has finished in 968 ms
+Nov 04, 2016 5:23:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\docs
+Nov 04, 2016 5:23:53 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:23:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\docs has finished in 188 ms
+Nov 04, 2016 5:23:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\examples
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\examples has finished in 500 ms
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\host-manager
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\host-manager has finished in 187 ms
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\manager
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\manager has finished in 172 ms
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\ROOT
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\ROOT has finished in 172 ms
+Nov 04, 2016 5:23:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin
+Nov 04, 2016 5:23:54 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(C:\apache-tomcat-7.0.72\webapps\strutlogin\WEB-INF\lib\javax.servlet_2.5.0.v201103041518.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:23:55 PM org.apache.commons.digester.Digester fatalError
+SEVERE: Parse Fatal Error at line 2 column 25: The document type declaration for root element type "struts-config" must end with '>'.
+org.xml.sax.SAXParseException; systemId: jndi:/localhost/strutlogin/WEB-INF/struts-config.xml; lineNumber: 2; columnNumber: 25; The document type declaration for root element type "struts-config" must end with '>'.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1436)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.scanDoctypeDecl(XMLDocumentScannerImpl.java:683)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:929)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1213)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1572)
+	at org.apache.struts.action.ActionServlet.parseModuleConfigFile(ActionServlet.java:738)
+	at org.apache.struts.action.ActionServlet.initModuleConfig(ActionServlet.java:687)
+	at org.apache.struts.action.ActionServlet.init(ActionServlet.java:333)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1269)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1182)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1072)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5368)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5660)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:899)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:875)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1260)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2002)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+Nov 04, 2016 5:23:55 PM org.apache.struts.action.ActionServlet handleConfigException
+SEVERE: Parsing error processing resource path /WEB-INF/struts-config.xml
+org.xml.sax.SAXParseException; systemId: jndi:/localhost/strutlogin/WEB-INF/struts-config.xml; lineNumber: 2; columnNumber: 25; The document type declaration for root element type "struts-config" must end with '>'.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1239)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:649)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1572)
+	at org.apache.struts.action.ActionServlet.parseModuleConfigFile(ActionServlet.java:738)
+	at org.apache.struts.action.ActionServlet.initModuleConfig(ActionServlet.java:687)
+	at org.apache.struts.action.ActionServlet.init(ActionServlet.java:333)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1269)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1182)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1072)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5368)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5660)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:899)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:875)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1260)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:2002)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin has finished in 703 ms
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\test
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\test has finished in 266 ms
+Nov 04, 2016 5:23:55 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:23:55 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:23:55 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3207 ms
+Nov 04, 2016 5:24:06 PM org.apache.jasper.compiler.TldLocationsCache tldScanJar
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:25:42 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Nov 04, 2016 5:25:42 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:25:42 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:25:42 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Nov 04, 2016 5:25:42 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:25:42 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:25:42 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:25:42 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.72
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 14 2016 12:12:26 UTC
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.72.0
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8.1
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.3
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_11\jre
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_11-b12
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-7.0.72\conf\logging.properties
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\apache-tomcat-7.0.72\endorsed
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:25:44 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-7.0.72\temp
+Nov 04, 2016 5:25:44 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\adb;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Rational\common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Ruby200-x64\bin;C:\Program Files\Indri\Indri 5.11\bin;.
+Nov 04, 2016 5:25:45 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:25:45 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:25:45 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 859 ms
+Nov 04, 2016 5:25:45 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 04, 2016 5:25:45 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.72
+Nov 04, 2016 5:25:45 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\axis
+Nov 04, 2016 5:25:45 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:25:46 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [172] milliseconds.
+Nov 04, 2016 5:25:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\axis has finished in 984 ms
+Nov 04, 2016 5:25:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\docs
+Nov 04, 2016 5:25:46 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:25:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\docs has finished in 188 ms
+Nov 04, 2016 5:25:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\examples
+Nov 04, 2016 5:25:46 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:25:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\examples has finished in 484 ms
+Nov 04, 2016 5:25:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\host-manager
+Nov 04, 2016 5:25:46 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:25:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\host-manager has finished in 187 ms
+Nov 04, 2016 5:25:46 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\manager
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\manager has finished in 204 ms
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\ROOT
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\ROOT has finished in 156 ms
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin
+Nov 04, 2016 5:25:47 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(C:\apache-tomcat-7.0.72\webapps\strutlogin\WEB-INF\lib\javax.servlet_2.5.0.v201103041518.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 5:25:47 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:25:48 PM org.apache.struts.tiles.TilesPlugin initDefinitionsFactory
+INFO: Tiles definition factory loaded for module ''.
+Nov 04, 2016 5:25:48 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO: Loading validation rules file from '/WEB-INF/validator-rules.xml'
+Nov 04, 2016 5:25:48 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO: Loading validation rules file from '/WEB-INF/validation.xml'
+Nov 04, 2016 5:25:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin has finished in 969 ms
+Nov 04, 2016 5:25:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\test
+Nov 04, 2016 5:25:48 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:25:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\test has finished in 250 ms
+Nov 04, 2016 5:25:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:25:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:25:48 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3492 ms
+Nov 04, 2016 5:27:36 PM org.apache.struts.tiles.TilesRequestProcessor initDefinitionsMapping
+INFO: Tiles definition factory found for request processor ''.
+Nov 04, 2016 5:27:37 PM org.apache.jasper.compiler.TldLocationsCache tldScanJar
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.72
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 14 2016 12:12:26 UTC
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.72.0
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8.1
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.3
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_11\jre
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_11-b12
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-7.0.72\conf\logging.properties
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\apache-tomcat-7.0.72\endorsed
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\apache-tomcat-7.0.72
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-7.0.72\temp
+Nov 04, 2016 5:55:26 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\adb;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Rational\common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Ruby200-x64\bin;C:\Program Files\Indri\Indri 5.11\bin;.
+Nov 04, 2016 5:55:26 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:55:26 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 851 ms
+Nov 04, 2016 5:55:26 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 04, 2016 5:55:26 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.72
+Nov 04, 2016 5:55:26 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\axis
+Nov 04, 2016 5:55:27 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:55:27 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [160] milliseconds.
+Nov 04, 2016 5:55:27 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\axis has finished in 996 ms
+Nov 04, 2016 5:55:27 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\docs
+Nov 04, 2016 5:55:28 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:55:28 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\docs has finished in 212 ms
+Nov 04, 2016 5:55:28 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\examples
+Nov 04, 2016 5:55:28 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:55:28 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\examples has finished in 528 ms
+Nov 04, 2016 5:55:28 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\host-manager
+Nov 04, 2016 5:55:28 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:55:28 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\host-manager has finished in 200 ms
+Nov 04, 2016 5:55:28 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\manager
+Nov 04, 2016 5:55:28 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\manager has finished in 192 ms
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\ROOT
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\ROOT has finished in 176 ms
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin
+Nov 04, 2016 5:55:29 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(C:\apache-tomcat-7.0.72\webapps\strutlogin\WEB-INF\lib\javax.servlet_2.5.0.v201103041518.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 5:55:29 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:55:30 PM org.apache.struts.tiles.TilesPlugin initDefinitionsFactory
+INFO: Tiles definition factory loaded for module ''.
+Nov 04, 2016 5:55:30 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO: Loading validation rules file from '/WEB-INF/validator-rules.xml'
+Nov 04, 2016 5:55:30 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO: Loading validation rules file from '/WEB-INF/validation.xml'
+Nov 04, 2016 5:55:30 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin has finished in 1,044 ms
+Nov 04, 2016 5:55:30 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\test
+Nov 04, 2016 5:55:30 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:55:30 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\test has finished in 240 ms
+Nov 04, 2016 5:55:30 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 5:55:30 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 5:55:30 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3661 ms
+Nov 04, 2016 5:55:30 PM org.apache.jasper.compiler.TldLocationsCache tldScanJar
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 5:55:49 PM org.apache.struts.tiles.TilesRequestProcessor initDefinitionsMapping
+INFO: Tiles definition factory found for request processor ''.
+Nov 04, 2016 5:55:49 PM org.apache.struts.action.ActionMapping findForward
+WARNING: Unable to find 'failureRegister' forward.
+Nov 04, 2016 6:00:09 PM org.apache.struts.action.ActionMapping findForward
+WARNING: Unable to find 'failureRegister' forward.
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.72
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 14 2016 12:12:26 UTC
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.72.0
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8.1
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.3
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_11\jre
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_11-b12
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|NgocThien
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-7.0.72\conf\logging.properties
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\apache-tomcat-7.0.72\endorsed
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\apache-tomcat-7.0.72
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\apache-tomcat-7.0.72
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-7.0.72\temp
+Nov 04, 2016 6:39:51 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\adb;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Rational\common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Ruby200-x64\bin;C:\Program Files\Indri\Indri 5.11\bin;.
+Nov 04, 2016 6:39:51 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 6:39:51 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 920 ms
+Nov 04, 2016 6:39:51 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 04, 2016 6:39:51 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.72
+Nov 04, 2016 6:39:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\axis
+Nov 04, 2016 6:39:52 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:39:52 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [172] milliseconds.
+Nov 04, 2016 6:39:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\axis has finished in 1,141 ms
+Nov 04, 2016 6:39:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\docs
+Nov 04, 2016 6:39:53 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:39:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\docs has finished in 203 ms
+Nov 04, 2016 6:39:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\examples
+Nov 04, 2016 6:39:53 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:39:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\examples has finished in 547 ms
+Nov 04, 2016 6:39:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\host-manager
+Nov 04, 2016 6:39:53 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:39:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\host-manager has finished in 234 ms
+Nov 04, 2016 6:39:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\manager
+Nov 04, 2016 6:39:54 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:39:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\manager has finished in 188 ms
+Nov 04, 2016 6:39:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\ROOT
+Nov 04, 2016 6:39:54 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:39:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\ROOT has finished in 219 ms
+Nov 04, 2016 6:39:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin
+Nov 04, 2016 6:39:54 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(C:\apache-tomcat-7.0.72\webapps\strutlogin\WEB-INF\lib\javax.servlet_2.5.0.v201103041518.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Nov 04, 2016 6:39:54 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 6:39:54 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:39:55 PM org.apache.struts.tiles.TilesPlugin initDefinitionsFactory
+INFO: Tiles definition factory loaded for module ''.
+Nov 04, 2016 6:39:55 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO: Loading validation rules file from '/WEB-INF/validator-rules.xml'
+Nov 04, 2016 6:39:55 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO: Loading validation rules file from '/WEB-INF/validation.xml'
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin has finished in 1,234 ms
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\test
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\test has finished in 266 ms
+Nov 04, 2016 6:39:55 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 6:39:55 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 6:39:55 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 4123 ms
+Nov 04, 2016 6:39:58 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\apache-tomcat-7.0.72\conf\Catalina\localhost\WebApplication2.xml
+Nov 04, 2016 6:39:58 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:39:58 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more Filters failed to start. Full details will be found in the appropriate container log file
+Nov 04, 2016 6:39:58 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/WebApplication2] startup failed due to previous errors
+Nov 04, 2016 6:39:58 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of configuration descriptor C:\apache-tomcat-7.0.72\conf\Catalina\localhost\WebApplication2.xml has finished in 672 ms
+Nov 04, 2016 6:43:47 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Nov 04, 2016 6:43:47 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 6:43:47 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 6:43:47 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Nov 04, 2016 6:43:47 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 6:43:47 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 6:43:47 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 6:43:47 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.72
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 14 2016 12:12:26 UTC
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.72.0
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8.1
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.3
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_11\jre
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_11-b12
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\apache-tomcat-7.0.72
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|NgocThien
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-7.0.72\conf\logging.properties
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\apache-tomcat-7.0.72\endorsed
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\apache-tomcat-7.0.72
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\apache-tomcat-7.0.72
+Nov 04, 2016 6:44:52 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-7.0.72\temp
+Nov 04, 2016 6:44:52 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\adb;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\Rational\common;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Ruby200-x64\bin;C:\Program Files\Indri\Indri 5.11\bin;.
+Nov 04, 2016 6:44:53 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 6:44:53 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 6:44:53 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 950 ms
+Nov 04, 2016 6:44:53 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 04, 2016 6:44:53 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.72
+Nov 04, 2016 6:44:53 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\apache-tomcat-7.0.72\conf\Catalina\localhost\WebApplication2.xml
+Nov 04, 2016 6:44:54 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:44:54 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [203] milliseconds.
+Nov 04, 2016 6:44:54 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more Filters failed to start. Full details will be found in the appropriate container log file
+Nov 04, 2016 6:44:54 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/WebApplication2] startup failed due to previous errors
+Nov 04, 2016 6:44:54 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of configuration descriptor C:\apache-tomcat-7.0.72\conf\Catalina\localhost\WebApplication2.xml has finished in 1,609 ms
+Nov 04, 2016 6:44:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\axis
+Nov 04, 2016 6:44:55 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:44:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\axis has finished in 422 ms
+Nov 04, 2016 6:44:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\docs
+Nov 04, 2016 6:44:55 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:44:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\docs has finished in 187 ms
+Nov 04, 2016 6:44:55 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\examples
+Nov 04, 2016 6:44:55 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:44:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\examples has finished in 516 ms
+Nov 04, 2016 6:44:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\host-manager
+Nov 04, 2016 6:44:56 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:44:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\host-manager has finished in 219 ms
+Nov 04, 2016 6:44:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\manager
+Nov 04, 2016 6:44:56 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:44:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\manager has finished in 219 ms
+Nov 04, 2016 6:44:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\ROOT
+Nov 04, 2016 6:44:56 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:44:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\ROOT has finished in 172 ms
+Nov 04, 2016 6:44:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin
+Nov 04, 2016 6:44:56 PM org.apache.catalina.loader.WebappClassLoaderBase validateJarFile
+INFO: validateJarFile(C:\apache-tomcat-7.0.72\webapps\strutlogin\WEB-INF\lib\javax.servlet_2.5.0.v201103041518.jar) - jar not loaded. See Servlet Spec 3.0, section 10.7.2. Offending class: javax/servlet/Servlet.class
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-bean is already defined
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-html is already defined
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-logic is already defined
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-nested is already defined
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TaglibUriRule body
+INFO: TLD skipped. URI: http://struts.apache.org/tags-tiles is already defined
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:44:57 PM org.apache.struts.tiles.TilesPlugin initDefinitionsFactory
+INFO: Tiles definition factory loaded for module ''.
+Nov 04, 2016 6:44:57 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO: Loading validation rules file from '/WEB-INF/validator-rules.xml'
+Nov 04, 2016 6:44:57 PM org.apache.struts.validator.ValidatorPlugIn initResources
+INFO: Loading validation rules file from '/WEB-INF/validation.xml'
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\strutlogin has finished in 984 ms
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.72\webapps\test
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.72\webapps\test has finished in 219 ms
+Nov 04, 2016 6:44:57 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 6:44:57 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 6:44:57 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 4596 ms
+Nov 04, 2016 6:45:02 PM org.apache.catalina.util.LifecycleBase stop
+INFO: The stop() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/WebApplication2]] after stop() had already been called. The second call will be ignored.
+Nov 04, 2016 6:45:03 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/WebApplication2]
+Nov 04, 2016 6:45:03 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\apache-tomcat-7.0.72\conf\Catalina\localhost\WebApplication2.xml
+Nov 04, 2016 6:45:04 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 04, 2016 6:45:04 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: One or more Filters failed to start. Full details will be found in the appropriate container log file
+Nov 04, 2016 6:45:04 PM org.apache.catalina.core.StandardContext startInternal
+SEVERE: Context [/WebApplication2] startup failed due to previous errors
+Nov 04, 2016 6:45:04 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of configuration descriptor C:\apache-tomcat-7.0.72\conf\Catalina\localhost\WebApplication2.xml has finished in 656 ms
+Nov 04, 2016 7:06:51 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Nov 04, 2016 7:06:51 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 7:06:51 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 7:06:51 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Nov 04, 2016 7:06:51 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 7:06:51 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Nov 04, 2016 7:06:51 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Nov 04, 2016 7:06:51 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

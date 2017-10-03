@@ -1,0 +1,32 @@
+Sep 06, 2017 9:05:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Sep 06, 2017 9:05:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Sep 06, 2017 9:05:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 06, 2017 9:05:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 06, 2017 9:05:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TrafficQAService'
+Sep 06, 2017 9:05:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context6720488407513552019.xml'
+Sep 06, 2017 9:13:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 06, 2017 9:13:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/TrafficQAService'
+Sep 06, 2017 9:13:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 06, 2017 9:37:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Sep 06, 2017 9:37:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Sep 06, 2017 9:37:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 06, 2017 9:37:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Sep 06, 2017 9:37:39 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context1582233684594614608.xml'
+Sep 06, 2017 9:37:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TrafficQAService'
+Sep 06, 2017 9:39:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'

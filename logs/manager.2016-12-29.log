@@ -1,0 +1,114 @@
+Dec 29, 2016 8:40:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Dec 29, 2016 8:40:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Dec 29, 2016 8:40:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:40:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:40:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context5547143805729863057.xml'
+Dec 29, 2016 8:40:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:44:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:44:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:44:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:44:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:44:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:44:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:44:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:44:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:44:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:45:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:45:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:45:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:45:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:45:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:45:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:48:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:48:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:48:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:48:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:48:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:48:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:48:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:48:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:48:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:48:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:48:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:48:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:49:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:49:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:49:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:49:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:50:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:50:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:50:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:50:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:50:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:50:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:50:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:51:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:51:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 8:54:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 8:54:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 9:55:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 9:55:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 9:56:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 9:56:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Dec 29, 2016 10:02:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 10:02:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/SupportFor-Ptiter'
+Dec 29, 2016 10:02:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context248511386854179178.xml'
+Dec 29, 2016 10:02:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Dec 29, 2016 10:02:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/SupportFor-Ptiter'

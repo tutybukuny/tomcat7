@@ -1,0 +1,48 @@
+Nov 05, 2016 9:59:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Nov 05, 2016 9:59:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Nov 05, 2016 9:59:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 05, 2016 9:59:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebApplication2'
+Nov 05, 2016 9:59:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context8080144666188840438.xml'
+Nov 05, 2016 10:00:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 05, 2016 10:00:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebApplication2'
+Nov 05, 2016 10:00:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context4064879182536535233.xml'
+Nov 05, 2016 10:03:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 05, 2016 10:03:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebApplication2'
+Nov 05, 2016 10:03:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context6467540702733497740.xml'
+Nov 05, 2016 10:21:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 05, 2016 10:21:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebApplication2'
+Nov 05, 2016 10:21:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context5937390301082272022.xml'
+Nov 05, 2016 10:24:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 05, 2016 10:24:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 05, 2016 10:24:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context4745796394396875329.xml'
+Nov 05, 2016 10:28:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 05, 2016 10:28:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/WebApplication1'
+Nov 05, 2016 10:28:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context5598735920087009731.xml'
+Nov 05, 2016 10:32:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 05, 2016 10:32:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 05, 2016 10:32:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context8751099689721811037.xml'
+Nov 05, 2016 10:32:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/Struts2_demo'

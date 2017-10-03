@@ -1,0 +1,34 @@
+Jan 07, 2017 3:26:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jan 07, 2017 3:26:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Jan 07, 2017 3:26:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jan 07, 2017 3:26:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jan 07, 2017 3:26:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: restart: Reloading web application '/SupportFor-Ptiter'
+Jan 07, 2017 3:27:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jan 07, 2017 3:28:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jan 07, 2017 3:29:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jan 07, 2017 3:29:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/SupportFor-Ptiter'
+Jan 07, 2017 3:29:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context2077891967607055896.xml'
+Jan 07, 2017 3:29:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jan 07, 2017 3:29:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/SupportFor-Ptiter'
+Jan 07, 2017 3:31:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jan 07, 2017 3:31:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jan 07, 2017 3:31:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Jan 07, 2017 3:31:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context8351506040927561366.xml'
+Jan 07, 2017 3:31:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/SupportFor-Ptiter'

@@ -1,0 +1,14 @@
+May 23, 2017 11:14:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+May 23, 2017 11:14:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+May 23, 2017 11:14:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 23, 2017 11:14:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+May 23, 2017 11:14:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/tutyb/AppData/Local/Temp/context8644351230897752522.xml'
+May 23, 2017 11:14:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/TrafficQAService'
+May 23, 2017 11:16:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'

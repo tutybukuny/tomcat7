@@ -1,0 +1,12 @@
+Nov 08, 2016 12:02:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Nov 08, 2016 12:02:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Nov 08, 2016 12:02:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 08, 2016 12:02:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: undeploy: Undeploying web application at '/Struts2_demo'
+Nov 08, 2016 12:02:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/TUTYB_~1/AppData/Local/Temp/context7573049891785426088.xml'
+Nov 08, 2016 12:02:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/Struts2_demo'

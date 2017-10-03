@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" docBase="D:\SupportFor-Ptiter\build\web" path="/SupportFor-Ptiter">
+  <!--    <Resource auth="Container" connectionProperties="useUnicode=yes;characterEncoding=utf8;" 
+              driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" 
+              maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/lichdangkytinchi" 
+              password="QutTtGCxzK8E" removeAbandoned="true" removeAbandonedTimeout="60" 
+              type="javax.sql.DataSource" url="jdbc:mysql://127.12.145.2:3306/lichdangkytinchi?autoReconnect=true" 
+              username="adminAkgIjQN"/>
+    <Resource auth="Container" connectionProperties="useUnicode=yes;characterEncoding=utf8;" 
+              driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" maxActive="100" 
+              maxIdle="30" maxWait="10000" name="jdbc/searchmark" password="QutTtGCxzK8E" 
+              removeAbandoned="true" removeAbandonedTimeout="60" type="javax.sql.DataSource" 
+              url="jdbc:mysql://127.12.145.2:3306/searchmark?autoReconnect=true" username="adminAkgIjQN"/>-->
+  <Resource auth="Container" connectionProperties="useUnicode=yes;characterEncoding=utf8;" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/lichdangkytinchi" password="" removeAbandoned="true" removeAbandonedTimeout="60" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/lichdangkytinchi?autoReconnect=true" username="root"/>
+  <Resource auth="Container" connectionProperties="useUnicode=yes;characterEncoding=utf8;" driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/searchmark" password="" removeAbandoned="true" removeAbandonedTimeout="60" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/searchmark?autoReconnect=true" username="root"/>
+  <!--ph?-->
+  <!--    <Resource auth="Container" connectionProperties="useUnicode=yes;characterEncoding=utf8;" 
+              driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" 
+              maxActive="100" maxIdle="30" maxWait="10000" name="jdbc/lichdangkytinchi2" 
+              password="NSNtir46HInx" removeAbandoned="true" removeAbandonedTimeout="60" 
+              type="javax.sql.DataSource" url="jdbc:mysql://127.7.245.130:3306/lichdangkytinchi2?autoReconnect=true" 
+              username="adminbfYX2Gl"/>
+    <Resource auth="Container" connectionProperties="useUnicode=yes;characterEncoding=utf8;" 
+              driverClassName="com.mysql.jdbc.Driver" logAbandoned="true" maxActive="100" 
+              maxIdle="30" maxWait="10000" name="jdbc/searchmark" password="NSNtir46HInx" 
+              removeAbandoned="true" removeAbandonedTimeout="60" type="javax.sql.DataSource" 
+              url="jdbc:mysql://127.7.245.130:3306/searchmark?autoReconnect=true" username="adminbfYX2Gl"/>-->
+</Context>

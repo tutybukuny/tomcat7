@@ -1,0 +1,114 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+import Model.User;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+/**
+ *
+ * @author tutyb_000
+ */
+public class ServerDAO {
+
+    private Connection con;
+
+    public ServerDAO() {
+        getDBConnection("hotel", "root", "");
+    }
+
+    private void getDBConnection(String dbName, String username, String password) {
+        String dbUrl = "jdbc:mysql://localhost:3306/" + dbName;
+        String dbClass = "com.mysql.jdbc.Driver";
+        try {
+            Class.forName(dbClass);
+            con = DriverManager.getConnection(dbUrl, username, password);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public boolean checkLogin(User user) {
+        String sql = "SELECT * FROM tbl_user2 WHERE username=? AND password=?";
+        try {
+            PreparedStatement statement = con.prepareStatement(sql);
+            statement.setString(1, user.getUsername());
+            statement.setString(2, user.getPassword());
+
+            ResultSet res = statement.executeQuery();
+
+            return res.next();
+        } catch (SQLException ex) {
+            Logger.getLogger(ServerDAO.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
+        return false;
+    }
+
+    public boolean checkUsername(User user) {
+        String sql = "SELECT * FROM tbl_user2 WHERE username=?";
+        try {
+            PreparedStatement statement = con.prepareStatement(sql);
+            statement.setString(1, user.getUsername());
+
+            ResultSet res = statement.executeQuery();
+
+            return res.next();
+        } catch (SQLException ex) {
+            Logger.getLogger(ServerDAO.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
+        return false;
+    }
+
+    public boolean register(User user) {
+        String sql = "INSERT INTO tbl_user2 (username, password) VALUES(?, ?)";
+        try {
+            PreparedStatement statement = con.prepareStatement(sql);
+            statement.setString(1, user.getUsername());
+            statement.setString(2, user.getPassword());
+
+            statement.executeUpdate();
+
+            return true;
+        } catch (SQLException ex) {
+            Logger.getLogger(ServerDAO.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
+        return false;
+    }
+
+    public ArrayList<User> findUser(User user) {
+        String sql = "SELECT * FROM tbl_user2 WHERE username LIKE ?";
+        try {
+            PreparedStatement statement = con.prepareStatement(sql);
+            statement.setString(1, "%" + user.getUsername() + "%");
+
+            ResultSet res = statement.executeQuery();
+            ArrayList<User> users = new ArrayList<>();
+
+            while (res.next()) {
+                User u = new User();
+                u.setUsername(res.getString("username"));
+                u.setPassword(res.getString("password"));
+                u.setId(res.getInt("id"));
+                users.add(u);
+            }
+
+            return users;
+        } catch (SQLException ex) {
+            Logger.getLogger(ServerDAO.class.getName()).log(Level.SEVERE, null, ex);
+        }
+
+        return null;
+    }
+}
